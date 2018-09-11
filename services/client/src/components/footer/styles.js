@@ -8,19 +8,21 @@ export default css`
     border-bottom-left-radius: 0.25rem;
     font-size: 0.75rem;
     color: #fff;
-  }
 
+  }
+  
   @media (min-width: 992px) {
     .footer {
       margin-bottom: 1rem;
     }
   }
 
+
   a {
-    background-color: #3490dc;
+    background-color: rgba(0, 0, 0, 0.3);
     color: #fff;
     border-radius: 0.25rem;
     text-decoration: none;
-    padding: 0.25rem;
+    padding: 0.2rem;
   }
 `;
