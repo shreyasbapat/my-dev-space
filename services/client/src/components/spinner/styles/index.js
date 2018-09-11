@@ -13,7 +13,7 @@ export default css`
     .loading-container{
       margin-top: 21rem;
       margin-bottom: 24rem;
-      padding-bottom: 0;
+      padding-bottom: 40rem;
     }
   }
   .lds-ripple {
